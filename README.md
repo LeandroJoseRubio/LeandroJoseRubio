@@ -2,7 +2,7 @@
 #### Estoy comenzando a dar mis primeros pasos en la programación.
 ![Estoy comenzando a dar mis primeros pasos en la programación.](https://img.freepik.com/vector-premium/imagen-programador-inteligente-muestra-codigo-diseno-banner-estilo-plano-codificacion-programacion-concepto-desarrollo-aplicaciones_285336-1474.jpg?w=1380)
 
-Actual estudiante en Egg CooperationEgg Cooperation, Programación Full Stack.
+Actual estudiante en Egg Cooperation, Programación Full Stack.
 
 Habilidades: JAVA / MySQL / HTML / CSS/ PROXIMAMENTE MÁS
 
